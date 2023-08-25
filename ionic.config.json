@@ -1,0 +1,7 @@
+{
+  "name": "figmamodal",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
